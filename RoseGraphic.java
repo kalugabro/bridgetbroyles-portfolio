@@ -2,7 +2,7 @@ import java.awt.Graphics;
 import java.awt.Color;
 import java.io.IOException;
 
-public class MyPicture {
+public class RoseGraphic {
 
 	public static final int WIDTH = 700; // you can change this value
 	public static final int HEIGHT = 700; // you can change this value
