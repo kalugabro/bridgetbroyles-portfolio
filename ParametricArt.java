@@ -2,21 +2,6 @@ import java.awt.Graphics;
 import java.awt.Color;
 import java.io.IOException;
 
-/**
- * CS312 Assignment 3.
- *
- * Replace <NAME> with your name, stating on your honor you completed this
- * assignment on your own and that you didn't share your code with other
- * students.
- * 
- * On my honor, Bridget Broyles, this programming assignment is my own work and
- * I have not shared my solution with any other student in the class.
- *
- * A graphic image of my own design.
- *
- * email address: bridgetcb2@gmail.com UTEID: bcb3384 Number of slip days I am
- * using on this assignment: 0
- */
 
 public class ParametricArt {
 
