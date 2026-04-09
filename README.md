@@ -1,7 +1,7 @@
 # my-portfolio
 
 
-##Abandoned
+# Abandoned
 
 
 Welcome to my portfolio! This repository showcases a collection of projects I've developed to expand my toolset and explore the exciting world of computer science. Each project reflects my passion for coding and problem-solving, allowing me to deepen my understanding of various concepts while having fun along the way.
